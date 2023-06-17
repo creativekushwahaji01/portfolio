@@ -31,7 +31,7 @@ header-item2-link: /portfolio/about
 header-item3-link: /portfolio/blogs
 header-item4-link: /portfolio/projects
 cta-item2: Schedule a Meeting
-cta-item2-link: https://calendly.com/ayushsoni1010
+cta-item2-link: /portfolio/meet
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -44,8 +44,8 @@ cta-item2-link: https://calendly.com/ayushsoni1010
 ;; -----------------------------------------------------
 
 -- toast.stack: 
-title: Hello, I'm aspiring fastn developer based in India
-link: YOUR_GITHUB_HANLDE
+title: Hello, I'm Dilip fastn developer based in India
+link: https://github.com/creativekushwahaji01
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -95,11 +95,11 @@ spacing.fixed.px: 10
 
 -- button.secondary: 
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:kingushwaha93@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: /portfolio2/meet
 isNewTab: true
 
 -- end: ftd.row
@@ -117,27 +117,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: YOUR_LINKEDIN_HANLDE
+link: https://www.linkedin.com/in/creativekushwahaji/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: YOUR_TWITTER_HANDLE
+link: https://twitter.com/mahakalsons
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: YOUR_GITHUB_HANLDE
+link: https://github.com/creativekushwahaji01
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: YOUR_INSTAGRAM_HANLDE
+link: https://www.instagram.com/creative_kushwahaji/?next=%2F
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: YOUR-YOUTUBE_HANDLE
+link: https://www.youtube.com/channel/UC777VuiC4Oxr0AvV-UhBLtQ
 image: $assets.files.images.youtube.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:kingushwaha93@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
