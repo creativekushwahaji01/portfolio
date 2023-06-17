@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: creativekushwahaji01.github.io/portfolio_fastn
+favicon: /-/creativekushwahaji01.github.io/portfolio_fastn/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
@@ -10,8 +10,8 @@ favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: package
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/my-ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: creativekushwahaji01.github.io/portfolio_fastn/FASTN/my-ds
+-- fastn.auto-import: creativekushwahaji01.github.io/portfolio_fastn/assets
 
 
 -- fastn.sitemap:
