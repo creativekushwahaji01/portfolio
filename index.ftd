@@ -27,9 +27,9 @@ header-item2: About
 header-item3: Blogs
 header-item4: Projects
 header-item1-link: /portfolio
-header-item2-link: /portfolio/about
-header-item3-link: /portfolio/blogs
-header-item4-link: /portfolio/projects
+header-item2-link: https://creativekushwahaji01.github.io/about.html
+header-item3-link: https://creativekushwahaji01.github.io/blog.html
+header-item4-link: https://creativekushwahaji01.github.io/masscalculator.github.io/
 cta-item2: Schedule a Meeting
 cta-item2-link: /portfolio/meet
 
