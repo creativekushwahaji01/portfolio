@@ -154,8 +154,7 @@ image: $assets.files.images.mail.png
 ;; ------------------------------------------
 
 -- ftd.image:
-;;src: $assets.files.images.dog.png
-src: $assets.files.banner.png
+src: $assets.files.images.dog.png
 
 -- end: ftd.row
 
