@@ -1,0 +1,21 @@
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+
+-- layout.base-layout:
+
+-- navbar.header:
+logo: $assets.files.images.logo.svgb
+logoURL: /portfolio
+header-item1: Home
+header-item2: About
+header-item3: Blogs
+header-item4: Projects
+header-item1-link: /portfolio
+header-item2-link: https://creativekushwahaji01.github.io/about.html
+header-item3-link: https://creativekushwahaji01.github.io/blog.html
+header-item4-link: https://creativekushwahaji01.github.io/masscalculator.github.io/
+cta-item2: Schedule a Meeting
+cta-item2-link: https://calendly.com/creative_kushwahaji
+
+
+-- end : layout.base-layout

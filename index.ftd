@@ -31,7 +31,7 @@ header-item2-link: https://creativekushwahaji01.github.io/about.html
 header-item3-link: https://creativekushwahaji01.github.io/blog.html
 header-item4-link: https://creativekushwahaji01.github.io/masscalculator.github.io/
 cta-item2: Schedule a Meeting
-cta-item2-link: /portfolio/meet
+cta-item2-link: https://calendly.com/creative_kushwahaji
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -79,7 +79,7 @@ secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Coder.
 
 -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -99,7 +99,7 @@ link: mailto:kingushwaha93@gmail.com
 
 -- button.primary: 
 title: Schedule a Meeting
-link: /portfolio2/meet
+link: https://calendly.com/creative_kushwahaji  
 isNewTab: true
 
 -- end: ftd.row
